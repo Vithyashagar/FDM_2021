@@ -2,6 +2,8 @@
 This was done for an assignment in academics.
 
 This project was part of the accedemic module Fundamentals of Data mining. 
+See the final document to see more information about this project.
+
 
 ## Group Members
 [Kovishwakarunya K](https://github.com/LVABIMANIKumarage?tab=repositories),
