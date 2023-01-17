@@ -2,7 +2,7 @@
 This was done for an assignment in academics.
 
 This project was part of the accedemic module Fundamentals of Data mining. 
-See the final document to see more information about this project.
+See the [final document](https://github.com/Vithyashagar/FDM_2021/blob/main/Data%20mining.pdf) to see more information about this project.
 
 
 ## Group Members
